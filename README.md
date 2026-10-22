@@ -1,1 +1,1 @@
-# vanity-sniper
+discord vanity sniper mfa fix
